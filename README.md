@@ -1,4 +1,4 @@
-In this project i did preprocessing of data, applied BOW,TFIDF,WORD2VEC NLP techniques and used Following Machine learning algorithms.
+In this project i did preprocessing of data, applied BOW,TFIDF,WORD2VEC NLP techniques and used Following Machine learning algorithms. <br />
 1.Decision tree <br />
 2.Support vector machine <br />
 3.Clustering <br />
